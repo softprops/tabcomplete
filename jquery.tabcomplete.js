@@ -1,6 +1,6 @@
 /**
  * TabComplete jquery plugin (@as-> = @asdf)
- * provides tab completion behavoir for textarea input
+ * provides tab completion behavior for textarea input
  * Takes an options arg with the following keys
  * <tt>tabbingChar</tt> the character that the tab key triggers completion
  * <tt>dataFn</tt> a function that takes an array which it populates
